@@ -42,6 +42,24 @@ const Resume = ({ data }) => {
         </div>
       )
     })
+    var certificates = data.certificates.map(function (certificate) {
+      var src = '/images/certificates/' + certificate.src
+      return (
+        <div key={certificate.name} className=" md:h-40">
+          <div className="">
+            <a href={certificate.url} name={certificate.name}>
+              <img
+                alt={certificate.name}
+                src={src}
+                className="mx-auto w-80 object-cover shadow-md
+              "
+              />
+            </a>
+            <h5 className="skillName"> {certificate.name}</h5>
+          </div>
+        </div>
+      )
+    })
   }
 
   return (
@@ -67,7 +85,17 @@ const Resume = ({ data }) => {
             <p className="skillMessage heading">{skillmessage}</p>
           </div>
         </div>
-        <div className="skills">{skills}</div>
+        <div className="skills scrollbar-hide">{skills}</div>
+        <div className="blockBorder">
+          <div className="block">
+            <span className="title decoration-orange md:ml-8">
+              Certificates
+            </span>
+          </div>
+        </div>
+        <div className="mx-auto mt-12 mb-12 max-w-4xl md:grid md:grid-cols-2 md:space-x-8 md:px-8 xl:max-w-6xl">
+          {certificates}
+        </div>
       </section>
     </>
   )

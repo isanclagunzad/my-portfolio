@@ -113,6 +113,18 @@
         "src": "js.svg",
         "url": "https://www.javascript.com/"
       }
+    ],
+    "certificates": [
+      {
+        "name": "",
+        "src": "odyssey-cert.png",
+        "url": "https://www.apollographql.com/tutorials/certifications/84c7debb-7749-4eef-a19b-67d766d1d1be"
+      },
+      {
+        "name": "",
+        "src": "",
+        "url": ""
+      }
     ]
   },
 
