@@ -1,24 +1,24 @@
 {
   "main": {
-    "name": "Twonarly",
-    "occupation": "Software Developer",
-    "description": "Learning and developing in the Web3 space.",
+    "name": "Israel Anthony Lagunzad",
+    "occupation": "Fullstack Web Developer",
+    "description": "Learning and developing using Codeigniter 3x, React JS, Next JS, Mantine, Tailwind, Typescript and APIs.",
     "image": "profilepic.png",
-    "bio": "28 years old. Unemployed and searching for work. Self-taught programmer. Heavily interested in Web3 and building on Ethereum. Outside of development you can find me on a yoga mat, playing ultimate frisbee, frisbee golf, golf, or studying other areas of interests including health and longevity, physics, and the sciences. Please find my full resume below!",
+    "bio": "25 years old. I graduated with my degree in Information Technology 5 years ago and immediately went to work as a freelance web developer on a small private company and after for 6months I was officially hired as a web developer/designer. Then after 1 year and 11 months I resigned because, I got bored because we really don't have clients, low salary pay, no training/discussion/quality time meeting since my employer was always travelling to singapore and I'm the only employee on our company. Then after a month, I was hired as a System Developer at a government agency 'Department of Agrarian reform' also after for some months I resigned because of low salary pay and repetitive work. And after a week I was hired as a Science Aide - IT Specialist at the Department of Science and Technology, I was tasked to develop a national web portal within my 6months contract, but since I've finished my project only for 3months, they've added more functions into my contract which is not IT related which also pushes me to resign again. And now I'm currently working as a computer programmer at National Maritime Polytechnic. The reason that I'm always resigning with my previous work is that I cannot see myself growing. I'm always keen to learn new things especially expanding my knowledge and skills in programming/developing. That's why I started looking for a job online, maybe someday I could meet someone/a company who I can work with for a longterm/lifetime. Someone who can give time to his/her employees and not treating his/her employees as a tool to the company but a family/friend that will make his/her employee have comfortable connection.",
     "contactmessage": "Get in touch for contributions or opportunities!",
-    "email": "twonarly1@yahoo.com",
-    "phone": "222-222-2222",
+    "email": "isanclagunzad@gmail.com",
+    "phone": "09563576330",
     "address": {
       "street": "",
-      "city": "St.Paul",
-      "state": "MN",
-      "zip": ""
+      "city": "Tacloban City",
+      "state": "Leyte",
+      "zip": "6500"
     },
     "website": "",
-    "resumedownload": "/Beau-Resume-2022.pdf",
+    "resumedownload": "/resume-2022.pdf",
     "social": [
       {
-        "network": "twitter",
+        "network": "facebook",
         "link": "https://twitter.com/twonarly1",
         "pic": "twitter.svg"
       },

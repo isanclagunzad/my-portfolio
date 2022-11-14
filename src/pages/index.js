@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="mx-auto flex w-full flex-col items-center justify-center">
       <Head>
-        <title>twonarly</title>
+        <title>Israel Anthony Lagunzad</title>
         <link rel="icon" href="/two.png" />
       </Head>
       <Header data={resumeData.main} />
